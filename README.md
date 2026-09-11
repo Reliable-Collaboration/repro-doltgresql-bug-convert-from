@@ -9,6 +9,8 @@ ERROR:  function: 'convert_from' not found
 
 PostgreSQL 18.6 returns `hello`.
 
+Reported upstream: https://github.com/dolthub/doltgresql/issues/3326
+
 ## Reproduce it
 
 You need Docker and a POSIX shell: Linux, macOS, or Windows with WSL. The first run downloads the two images.
